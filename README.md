@@ -8,4 +8,4 @@
 2. que ond a
 3. 
 `código en línea`
-en el readme 
+en el rea
