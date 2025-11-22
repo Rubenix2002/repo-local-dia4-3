@@ -8,6 +8,4 @@
 2. que ond a
 3. 
 `código en línea`
-```bash
-# bloque de código
-ls -la
+en el readme 
